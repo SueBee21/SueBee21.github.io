@@ -1,0 +1,84 @@
+/**
+ First External CSS Stylesheet
+ **/
+
+/*
+Each of these CSS elements is associated with an HTML Element, Class, or ID.
+Flip between this CSS file and the HTML to see how things line up.
+Experiment with deleting lines of code from the CSS to see how it affects the webpage when you refresh in the browser.
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Veranda, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color:#033046;
+    background: #ecf4f8;
+  }
+  
+  header {
+    background: rgb(20, 114, 126);
+
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: Veranda: sans-serif;
+  }
+  
+  h2 {
+    font-size: 25px;
+  }
+  
+  a {
+    color: #08076e;
+  }
+  
+
+  }
+  
+  #main-bio,
+  #contact-info,
+  #bio-image {
+  }
+  
+  #main-bio {
+    width: 70%;
+    text-align: center;
+  }
+  
+  #content1 {
+    float: left;
+    margin: auto;
+    border-style: solid;
+    border-color: white;
+    padding-top: 20px;
+    padding-left: 28px;
+    border-width: 5px;
+    margin: 10px;
+    text-align: center;
+  
+  }
+  #contact-info {
+    width: 30%;
+    border-style: solid;
+    border-width: medium;
+    float: right;
+    color:#033046;
+    border-color:rgb(20, 114, 126);
+  }
+  
+  #bio-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    fliat: left:
+  }
+  
